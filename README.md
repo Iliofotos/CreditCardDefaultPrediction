@@ -26,7 +26,7 @@ Python, Scikit-learn, Pandas, Matplotlib
 MSc Artificial Intelligence - European University Cyprus
 ## Other Projects
 
-Check out my other machine learning projects:
+Check out my other projects:
 
 - 🏦 [IMDB Sentiment Analysis](https://github.com/Iliofotos/IMDBSentimentAnalysis/tree/main) - ML Sentiment Analysis using Multinomial Naive Bayes
 - 🎮 [Video Game Rating App](https://github.com/Iliofotos/FYP) - Cross-platform mobile app built with Xamarin
