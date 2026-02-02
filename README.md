@@ -17,7 +17,7 @@ Machine learning project comparing 5 classifiers to predict credit card payment 
 ## Key Findings
 * Random Forest achieved best ROC-AUC (0.75)
 * Feature scaling significantly improved KNN and Naive Bayes performance
-* GaussianNB reached 70% balanced accuracy after scaling
+* GaussianNB has significant improvement in balanced accuracy after scaling
 
 ## Tech Stack
 Python, Scikit-learn, Pandas, Matplotlib
